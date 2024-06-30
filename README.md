@@ -4,3 +4,5 @@ The deadliest and most life-threatening disease in this era is cancer and lung c
 The proposed CNN model has the highest accuracy of 99.84\% and also has the minimum training loss which indicates the model's performance comparing to the AlexNet and ZFNet models.
 Similarly, we have observed that our proposed CNN model has the highest validation accuracy of 84.72\% but at the same time, the validation loss is very high compared to the other models which is a limitation of our proposed model.
 In the comparison of testing accuracy and loss, we observe that the proposed model has the 2nd highest testing accuracy but very low testing loss compared to the other two models.
+
+Dataset: https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
